@@ -15,9 +15,9 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 ADDONTITLE = '[COLOR red][B] Blackwater Wizard[/B][/COLOR]'
 BUILDERNAME = 'Blackwater Wizard'
-EXCLUDES = [ADDON_ID, 'repository.openwizard']
+EXCLUDES = [ADDON_ID, 'repository.JBX3']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://github.com/JohnnyBlackwater/plugin.program.jbx3wizard/blob/master/resources/text/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -96,11 +96,11 @@ AUTOUPDATE = 'Yes'
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL = 'Yes'
 # Addon ID for the repository
-REPOID = 'repository.openwizard'
+REPOID = 'repository.JBX3'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml'
+REPOADDONXML = 'https://github.com/JohnnyBlackwater/plugin.program.jbx3wizard/blob/master/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/repository.openwizard/'
+REPOZIPURL = 'https://github.com/JohnnyBlackwater/Addon/tree/main/JBX3%20Wizard'
 #########################################################
 
 #########################################################
