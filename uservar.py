@@ -100,7 +100,7 @@ REPOID = 'repository.JBX3'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://github.com/JohnnyBlackwater/plugin.program.jbx3wizard/blob/master/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://github.com/JohnnyBlackwater/Addon/tree/main/JBX3%20Wizard'
+REPOZIPURL = 'https://github.com/JohnnyBlackwater/Addon/tree/main/JBX3.Wizard'
 #########################################################
 
 #########################################################
